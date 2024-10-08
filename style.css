@@ -47,7 +47,7 @@ nav a{
     transition:teansform 0.1s ;
  }
 
-.graficos-cotainer{
+.graficos-container{
   margin:5rem;
 }  
 
@@ -56,7 +56,7 @@ nav a{
 
 }
     
-.graficos-cotainer_texto{
+.graficos-container_texto{
     font-size: 1.3rem;
    text-align: center;
    padding: 2rem;
