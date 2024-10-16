@@ -1,4 +1,3 @@
-Pouco armazenamento … 8% restantes do seu armazenamento individual de 15 GB. Para evitar interrupções, libere espaço ou fale com seu administrador.
 const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
 
 async function vizualizarInformacoesGlobais(){
