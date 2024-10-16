@@ -1,4 +1,3 @@
-Pouco armazenamento … 8% restantes do seu armazenamento individual de 15 GB. Para evitar interrupções, libere espaço ou fale com seu administrador.
 import*as commonJs from"./common.js"
 async function quantidadeUsuarioPorRede(){
     const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/numero-usuario.json'
